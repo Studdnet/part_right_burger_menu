@@ -2,6 +2,12 @@
 
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,700");
 
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 body {
   background: #f0f8ea;
   font-family: "Quicksand", sans-serif;
